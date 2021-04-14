@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anoack93
 - 👀 I’m interested in open-source development for the web
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on company and project related repositories
 
 <!---
