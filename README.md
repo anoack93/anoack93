@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anoack93
+- 👋 Hi, I’m Alex
 - 👀 I’m interested in open-source development for the web
 - 💞️ I’m looking to collaborate on company and project related repositories
 
